@@ -1,6 +1,6 @@
 name: merge_arb
 description: Codegen that merges multiple ARB files into a single ARB file.
-version: 0.3.1
+version: 0.4.0
 repository: https://github.com/ltman/merge_arb
 
 platforms:

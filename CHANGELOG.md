@@ -1,3 +1,7 @@
+## 0.4.0
+
+- Update dependencies
+
 ## 0.3.1
 
 - Move intl to dev_dependencies
