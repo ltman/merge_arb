@@ -3,13 +3,13 @@ description: A sample application.
 version: 1.0.0
 
 environment:
-  sdk: ^3.2.3
+  sdk: ^3.9.0
 
 dependencies:
-  build: ^2.4.1
+  build: ^4.0.1
   #ddd
 
 dev_dependencies:
   merge_arb:
     path: ../
-  build_runner: ^2.4.6
+  build_runner: ^2.9.0
